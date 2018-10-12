@@ -37,7 +37,7 @@
 各種シーンを決め、とりあえず名前を付ける。  
 おぼろげにシーンごとの役割を考えてないと決められない。詳細までは後回しでいいがある程度の動きを決めておく。  
 ![HEXTRINGのシーン相関図1](scenes.png)
-![HEXTRINGのシーン説明-MUSEL](detail_MUSEL.png)
+![HEXTRINGのシーン説明-MUSEL](detail_MUSEL.PNG)
 
 <p id="data"></p>
 
@@ -46,7 +46,7 @@
 
 各シーンごとに必要なデータを列挙していく。  
 この時点である程度のクラス分けが決定するのでそのままクラスの雛形を書いてしまうのもいい。知らんけど～。  
-![HEXTRINGのデータクラス構成1](dataclass.png)
+![HEXTRINGのデータクラス構成1](dataclass.PNG)
 
 <p id="todo"></p>
 
